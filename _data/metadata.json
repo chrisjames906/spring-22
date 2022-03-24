@@ -1,10 +1,10 @@
 {
-  "title": "Cy",
+  "title": "Chris James",
   "url": "https://iastate.edu/",
   "language": "en",
-  "description": "Cy is a mascot",
+  "description": "Chris is a student",
   "feed": {
-    "subtitle": "Cy is a mascot",
+    "subtitle": "Chris is a student",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://iastate.edu/"
@@ -14,9 +14,9 @@
     "url": "https://iastate.edu/feed/feed.json"
   },
   "author": {
-    "name": "Cy",
-    "email": "cy@iastate.edu",
+    "name": "Chris James",
+    "email": "chris906@iastate.edu",
     "url": "https://iastate.edu/about-me/",
-    "twitter": "iastate"
+    "twitter": "@chrisjames906"
   }
 }
