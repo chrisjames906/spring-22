@@ -1,6 +1,6 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+title: Video is Outdated... Here's Why
+description: Plain, traditional video just doesn't cut it anymore
 date: 2018-08-24
 tags:
   - second tag
