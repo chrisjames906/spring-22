@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: How the Top Brands are Increasing Affinity through Immersive Experiences
+description: VR is showing justifiable returns... heres how
 date: 2018-05-01
 tags:
   - another tag
