@@ -1,6 +1,6 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
+title: Creative Ways to Engage Visitors at Your Cultural Organization
+description: We all know visitors get board... lets jazz it up a bit!
 date: 2018-07-04
 tags:
   - number 2
