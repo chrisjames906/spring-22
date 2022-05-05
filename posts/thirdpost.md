@@ -1,7 +1,7 @@
 ---
 title: The Journey of True360, Inc.
 description: How did True360, Inc get to where it is today?
-date: March, 2022
+date: 05-05-2022
 tags:
   - second tag
   - posts with two tags
