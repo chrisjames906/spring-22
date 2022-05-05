@@ -1,7 +1,7 @@
 ---
 title: About the Entrepreneur Christopher James
 description: Learn all about the entrepreneur Christopher James's background
-date: 05-05-2022
+date: 2022-05-05
 tags:
   - another tag
 layout: layouts/post.njk
