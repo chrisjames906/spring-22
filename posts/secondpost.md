@@ -1,6 +1,6 @@
 ---
-title: About True360, Inc: A Company that Captures Immersive Experiences
-description: Learn about how True360, Inc. got started and where they are today
+title: The Origin of True360, Inc
+description: Learn about how True360, Inc. got started
 date: 2018-07-04
 tags:
   - number 2
