@@ -1,18 +1,9 @@
 ---
-title: Creative Ways to Engage Visitors at Your Cultural Organization
-description: We all know visitors get board... lets jazz it up a bit!
+title: About True360, Inc: A Company that Captures Immersive Experiences
+description: Learn about how True360, Inc. got started and where they are today
 date: 2018-07-04
 tags:
   - number 2
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-## Section Header
-
-<a href="{{ '/posts/firstpost/' | url }}">First post</a>
-<a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+True360, Inc. was started in a dorm room at Iowa State University in November of 2016 by Christopher James. The company originally started out as a ROV manufacturer when Christopher James to bring the joy of SCUBA to a broader – and drier – audience by placing a 360° camera on an ROV and stream the footage to a VR headset. This way people could drive the ROV around and feel like they were SCUBA diving. Christopher James brought the ROV to SEA Life, the largest franchiser of aquariums with over 50 locations worldwide, who really like the immersive concept, but not the ROV itself. So he removed the ROV, kept the camera, and True360 was born.
