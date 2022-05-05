@@ -1,13 +1,19 @@
 ---
-title: About the Entrepreneur Christopher James
-description: Learn all about the entrepreneur Christopher James's background
+title: How the Top Brands are Increasing Affinity through Immersive Experiences
+description: VR is showing justifiable returns... heres how
 date: 2018-05-01
 tags:
   - another tag
 layout: layouts/post.njk
 ---
 
-The entrepreneur Christopher James started True360, Inc. his freshman year at Iowa State University. He was born from a family of entrepreneurs and has spawned a variety of entrepreneurial projects in middle and high school. These included migrating his mother’s brick and mortar business online, developing a competitive multisided mobile game, and managing the operations of a portion of his father’s farm. Christopher James is committed to learning for life and has a variety of business mentors including serial entrepreneurs with greater than $100MM exits. Christopher James continues to pursue a strong reading list for entrepreneurial professional development.
+Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
+Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+
+## Section Header
+
+Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
 ```text/2-3
 // this is a command
@@ -15,6 +21,7 @@ function myCommand() {
 	let counter = 0;
 	counter++;
 }
+
 // Test with a line break above this line.
 console.log('Test');
 ```
