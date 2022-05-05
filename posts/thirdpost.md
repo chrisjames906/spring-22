@@ -1,29 +1,10 @@
 ---
-title: Video is Outdated... Here's Why
-description: Plain, traditional video just doesn't cut it anymore
-date: 2018-08-24
+title: The Journey of True360, Inc.
+description: How did True360, Inc get to where it is today?
+date: March, 2022
 tags:
   - second tag
   - posts with two tags
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-``` js/2/4
-// this is a command
-function myCommand() {
-	let counter = 0;
-
-	counter++;
-
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+After removing the ROV from the equation, Christopher James threw himself into the zoo and aquarium industry, making thousands of cold calls and landing hundreds of meetings, not with the intent to sell, but seeking to understand the subtle buying and operational nuances of the industry. This is called customer discovery. After pivoting about half a dozen times he eventually landed on the concept of livestreaming a robust, animal proof 360° camera that also could comb through hours and hours of content to compile a highlight reel of the most compelling WOW! Moments™. He was then able to take this concept and build a team, raise investment capital, and land his first paying customer.
