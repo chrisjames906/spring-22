@@ -1,7 +1,7 @@
 ---
 title: The Origin of True360, Inc
 description: Learn about how True360, Inc. got started
-date: March, 2022
+date: 05-05-2022
 tags:
   - number 2
 layout: layouts/post.njk
